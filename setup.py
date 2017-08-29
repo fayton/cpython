@@ -1,5 +1,4 @@
-# Autodetecting setup.py script for building the Python extensions
-#
+# Autodetecting setup.py script for building the Python extensions   
 
 __version__ = "$Revision$"
 
