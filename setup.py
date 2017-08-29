@@ -1,5 +1,4 @@
-# Autodetecting setup.py script for building the Python extensions
-#
+# Autodetecting setup.py script for building the Python extensions   
 
 import sys, os, imp, re, optparse
 from glob import glob
